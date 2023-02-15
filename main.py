@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Author   : v-math
-# @Description: briefly describe module function.
+# @Description: main function.
 # @Time     : 2023/2/15 21:43
 # @File     : main.py
 # @Project  : leetcode
